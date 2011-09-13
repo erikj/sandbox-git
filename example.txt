@@ -1,3 +1,10 @@
 hello, this is an example
 
 addition within branch b1
+
+branch step used:
+ - git branch b1
+ - git checkout b1
+ - git add example.txt
+ - git commit -m "adding text to indicate branch"
+ - git push origin b1
